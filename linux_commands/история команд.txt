@@ -1,0 +1,13 @@
+1 cat > home_animal.txt
+  2 cat > pack_animal.txt
+ 3 cat home_animal.txt pack_animal.txt > people_friends.txt 
+ 4 ls -a
+ 5 cd gb_work
+ 6  pwd
+7  cd
+8 mv people_friends.txt /home/kaktuz/gb_work
+ 9  ls -a
+ 10  cd gb_work/
+11 ls -a
+12  cd gb_work/
+13  ls -a
