@@ -1,8 +1,0 @@
-package animals.pets;
-
-public class Hamsters extends Pet {
-    @Override
-    public String speak() {
-        return "фа";
-    }
-}
